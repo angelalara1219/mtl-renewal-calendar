@@ -1,0 +1,245 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//mtl-renewal-calendar//EN
+X-WR-CALNAME:Sample MSB\, Inc. (synthetic) licensing
+BEGIN:VEVENT
+UID:bf01d7ab497ba629@mtl-renewal-calendar
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261110
+SUMMARY:[WA] Surety bond: Renew $50\,000 surety bond and file the rider
+DESCRIPTION:Licensing Lead
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P14D
+DESCRIPTION:[WA] Surety bond: Renew $50\,000 surety bond and file the rider
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddddd7c48fa3388d@mtl-renewal-calendar
+DTSTAMP:20261114T000000Z
+DTSTART;VALUE=DATE:20261114
+SUMMARY:[ALL] MSB Call Report: NMLS MSB Call Report for Q3 2026
+DESCRIPTION:Licensing Lead | Due 45 days after quarter end
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P14D
+DESCRIPTION:[ALL] MSB Call Report: NMLS MSB Call Report for Q3 2026
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aa540c45f4465640@mtl-renewal-calendar
+DTSTAMP:20261114T000000Z
+DTSTART;VALUE=DATE:20261114
+SUMMARY:[NJ] Application: Money Transmitter application (Deficiency issued\, submitted 2026-10-20)
+DESCRIPTION:Licensing Lead | Fingerprints for new control person
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P14D
+DESCRIPTION:[NJ] Application: Money Transmitter application (Deficiency issued\, submitted 2026-10-20)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:0a1d95ec8c089f9d@mtl-renewal-calendar
+DTSTAMP:20261115T000000Z
+DTSTART;VALUE=DATE:20261115
+SUMMARY:[IL] Report / filing: Annual report (Not started)
+DESCRIPTION:Licensing Lead
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P14D
+DESCRIPTION:[IL] Report / filing: Annual report (Not started)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:319f15d2b731aa1a@mtl-renewal-calendar
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261125
+SUMMARY:[MA] Application: Money Transmitter application (Under review\, submitted 2026-08-14)
+DESCRIPTION:Licensing Lead | Respond to deficiency: updated business plan and 3-year projections
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P14D
+DESCRIPTION:[MA] Application: Money Transmitter application (Under review\, submitted 2026-08-14)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:74a2657cf44dd813@mtl-renewal-calendar
+DTSTAMP:20261130T000000Z
+DTSTART;VALUE=DATE:20261130
+SUMMARY:[ALL] Amendment: Change of principal office address (NMLS company record) (Pending approval)
+DESCRIPTION:Licensing Lead | Filed 2026-11-02
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P14D
+DESCRIPTION:[ALL] Amendment: Change of principal office address (NMLS company record) (Pending approval)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:c0b9ec814f4532e2@mtl-renewal-calendar
+DTSTAMP:20261201T000000Z
+DTSTART;VALUE=DATE:20261201
+SUMMARY:[GA] Surety bond: Renew $150\,000 surety bond and file the rider
+DESCRIPTION:Licensing Lead
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P14D
+DESCRIPTION:[GA] Surety bond: Renew $150\,000 surety bond and file the rider
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e3fcd7c58d97bf91@mtl-renewal-calendar
+DTSTAMP:20261205T000000Z
+DTSTART;VALUE=DATE:20261205
+SUMMARY:[TX] Amendment: New control person (change of control filing) (Not filed)
+DESCRIPTION:Legal | Not yet filed
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P14D
+DESCRIPTION:[TX] Amendment: New control person (change of control filing) (Not filed)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:07c7cb65b0c7dded@mtl-renewal-calendar
+DTSTAMP:20261215T000000Z
+DTSTART;VALUE=DATE:20261215
+SUMMARY:[CA] Application: Money Transmission application (Under review\, submitted 2026-09-30)
+DESCRIPTION:Licensing Lead
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P14D
+DESCRIPTION:[CA] Application: Money Transmission application (Under review\, submitted 2026-09-30)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:3dedb3cbe08d9c87@mtl-renewal-calendar
+DTSTAMP:20261215T000000Z
+DTSTART;VALUE=DATE:20261215
+SUMMARY:[FL] Report / filing: Annual report (In progress)
+DESCRIPTION:Licensing Lead
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P14D
+DESCRIPTION:[FL] Report / filing: Annual report (In progress)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:d8bde079d9ac7a25@mtl-renewal-calendar
+DTSTAMP:20261220T000000Z
+DTSTART;VALUE=DATE:20261220
+SUMMARY:[Multistate] Exam item: Document independent test scope and remediation (Open)
+DESCRIPTION:Compliance | 2026 multistate MSB exam
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P14D
+DESCRIPTION:[Multistate] Exam item: Document independent test scope and remediation (Open)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:9d212bdc0a18ef57@mtl-renewal-calendar
+DTSTAMP:20261231T000000Z
+DTSTART;VALUE=DATE:20261231
+SUMMARY:[AZ] License renewal: Money Transmitter renewal (SAMPLE-AZ-001\, via NMLS)
+DESCRIPTION:Licensing Lead | NMLS renewal window opens 2026-11-01
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P14D
+DESCRIPTION:[AZ] License renewal: Money Transmitter renewal (SAMPLE-AZ-001\, via NMLS)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:13e0ab6655a6a2ef@mtl-renewal-calendar
+DTSTAMP:20261231T000000Z
+DTSTART;VALUE=DATE:20261231
+SUMMARY:[GA] License renewal: Money Transmitter renewal (SAMPLE-GA-001\, via NMLS)
+DESCRIPTION:Licensing Lead | NMLS renewal window opens 2026-11-01
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P14D
+DESCRIPTION:[GA] License renewal: Money Transmitter renewal (SAMPLE-GA-001\, via NMLS)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:8099e9ba6c7629c2@mtl-renewal-calendar
+DTSTAMP:20261231T000000Z
+DTSTART;VALUE=DATE:20261231
+SUMMARY:[IL] License renewal: Transmitter of Money renewal (SAMPLE-IL-001\, via NMLS)
+DESCRIPTION:Licensing Lead | NMLS renewal window opens 2026-11-01
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P14D
+DESCRIPTION:[IL] License renewal: Transmitter of Money renewal (SAMPLE-IL-001\, via NMLS)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e141ef291d2614e5@mtl-renewal-calendar
+DTSTAMP:20261231T000000Z
+DTSTART;VALUE=DATE:20261231
+SUMMARY:[TX] License renewal: Money Transmission renewal (SAMPLE-TX-001\, via NMLS)
+DESCRIPTION:Licensing Lead | NMLS renewal window opens 2026-11-01
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P14D
+DESCRIPTION:[TX] License renewal: Money Transmission renewal (SAMPLE-TX-001\, via NMLS)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:0a1b4d2af2d3010a@mtl-renewal-calendar
+DTSTAMP:20261231T000000Z
+DTSTART;VALUE=DATE:20261231
+SUMMARY:[WA] License renewal: Money Transmitter renewal (SAMPLE-WA-001\, via NMLS)
+DESCRIPTION:Licensing Lead | NMLS renewal window opens 2026-11-01
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P14D
+DESCRIPTION:[WA] License renewal: Money Transmitter renewal (SAMPLE-WA-001\, via NMLS)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:634ab1375700d8d4@mtl-renewal-calendar
+DTSTAMP:20270115T000000Z
+DTSTART;VALUE=DATE:20270115
+SUMMARY:[Multistate] Exam item: Update AML risk assessment for new products (Remediation in progress)
+DESCRIPTION:Compliance | 2026 multistate MSB exam
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P14D
+DESCRIPTION:[Multistate] Exam item: Update AML risk assessment for new products (Remediation in progress)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:029afc2cd7f4c559@mtl-renewal-calendar
+DTSTAMP:20270131T000000Z
+DTSTART;VALUE=DATE:20270131
+SUMMARY:[IL] Surety bond: Renew $200\,000 surety bond and file the rider
+DESCRIPTION:Licensing Lead
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P14D
+DESCRIPTION:[IL] Surety bond: Renew $200\,000 surety bond and file the rider
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:5cc7ed4766551384@mtl-renewal-calendar
+DTSTAMP:20270131T000000Z
+DTSTART;VALUE=DATE:20270131
+SUMMARY:[WA] Report / filing: Annual assessment report (Not started)
+DESCRIPTION:Finance
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P14D
+DESCRIPTION:[WA] Report / filing: Annual assessment report (Not started)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:c4af8917b0910695@mtl-renewal-calendar
+DTSTAMP:20270214T000000Z
+DTSTART;VALUE=DATE:20270214
+SUMMARY:[ALL] MSB Call Report: NMLS MSB Call Report for Q4 2026
+DESCRIPTION:Licensing Lead | Due 45 days after quarter end
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P14D
+DESCRIPTION:[ALL] MSB Call Report: NMLS MSB Call Report for Q4 2026
+END:VALARM
+END:VEVENT
+END:VCALENDAR

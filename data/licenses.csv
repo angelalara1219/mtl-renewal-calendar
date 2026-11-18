@@ -1,0 +1,9 @@
+state,license_type,license_id,status,expiration_date,renewal_via,bond_amount,bond_expiration,owner
+AZ,Money Transmitter,SAMPLE-AZ-001,Active,2026-12-31,NMLS,100000,2027-03-15,Licensing Lead
+FL,Money Services Business,SAMPLE-FL-001,Active,2027-04-30,State portal,250000,2027-04-30,Licensing Lead
+GA,Money Transmitter,SAMPLE-GA-001,Active,2026-12-31,NMLS,150000,2026-12-01,Licensing Lead
+TX,Money Transmission,SAMPLE-TX-001,Active,2026-12-31,NMLS,300000,2027-06-30,Licensing Lead
+WA,Money Transmitter,SAMPLE-WA-001,Active,2026-12-31,NMLS,50000,2026-11-10,Licensing Lead
+NM,Money Transmitter,SAMPLE-NM-001,Active,2027-06-30,State portal,50000,2027-06-30,Licensing Lead
+IL,Transmitter of Money,SAMPLE-IL-001,Active,2026-12-31,NMLS,200000,2027-01-31,Licensing Lead
+OR,Money Transmitter,SAMPLE-OR-001,Surrendered,,,,,Licensing Lead
