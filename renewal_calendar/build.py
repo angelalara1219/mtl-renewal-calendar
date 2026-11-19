@@ -6,6 +6,8 @@ from dataclasses import dataclass
 from datetime import date, timedelta
 from pathlib import Path
 
+from .escheat import escheat_deadlines
+
 DONE_STATUSES = {"approved", "closed", "filed", "surrendered", "withdrawn"}
 
 
@@ -144,7 +146,8 @@ def collect(data_dir, as_of, horizon_days=None):
              + amendment_deadlines(data_dir)
              + filing_deadlines(data_dir)
              + exam_deadlines(data_dir)
-             + call_report_deadlines(data_dir, settings, as_of, horizon_days))
+             + call_report_deadlines(data_dir, settings, as_of, horizon_days)
+             + escheat_deadlines(data_dir, settings, as_of, Deadline))
     last = as_of + timedelta(days=horizon_days)
     return sorted((d for d in items if d.due <= last),
                   key=lambda d: (d.due, d.state, d.category))
